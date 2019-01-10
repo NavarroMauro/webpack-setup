@@ -1,0 +1,8 @@
+/node_modules/
+/scr/images/
+
+*.bd
+*.jpg
+*.jpeg
+*.png
+*.gif
